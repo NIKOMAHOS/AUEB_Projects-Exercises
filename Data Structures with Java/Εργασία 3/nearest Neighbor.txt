@@ -1,0 +1,30 @@
+    private TreeNode nearestNode(TreeNode node, Point p, int level, TreeNode bestNode) {
+        
+        if (node == null) {
+            return bestNode;
+        } 
+        
+        SinglyLinkedList<Point> list = new SinglyLinkedList<Point>();
+        list = rangeSearch(root, new Rectangle(0, 100, 0, 100));
+        while (list.size() != 0){
+            Point current = list.removeFirst();
+            if (current.distanceSquared(p) < bestNode.item.distanceSquared(p)) {
+                bestNode = new TreeNode(current);
+            }
+        }
+        System.out.println("The nearest point to " + p.toString() + " is " + bestNode.item.toString() + " with a distance of " + bestNode.item.distanceTo(p) + ".");
+        return bestNode;
+        
+    } // returns the node in the tree that is closest to the given point p
+    
+    public Point nearestNeighbor(Point p) {
+        if (isEmpty()) { // if the tree is empty
+            System.out.println("The tree is empty.");
+            return null;
+        }
+        if (search(p)) { // if the point p is already in the tree, print a message and return
+            return p;
+        }
+        TreeNode nearest = this.nearestNode(root, p, 0, root);
+        return nearest.item;
+    } // returns the point in the tree that is closest to p  
