@@ -1,0 +1,31 @@
+﻿  app.cpp
+H:\PROJECTS\Programming Projects\C-C++ Projects\FilmBrowser\FilmBrowser\CircularVector.h(74,23): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  Button.cpp
+H:\PROJECTS\Programming Projects\C-C++ Projects\FilmBrowser\FilmBrowser\CircularVector.h(74,23): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+H:\PROJECTS\Programming Projects\C-C++ Projects\FilmBrowser\FilmBrowser\Button.cpp(85,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+H:\PROJECTS\Programming Projects\C-C++ Projects\FilmBrowser\FilmBrowser\Button.cpp(86,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+H:\PROJECTS\Programming Projects\C-C++ Projects\FilmBrowser\FilmBrowser\Button.cpp(108,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+H:\PROJECTS\Programming Projects\C-C++ Projects\FilmBrowser\FilmBrowser\Button.cpp(172,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Docker.cpp
+H:\PROJECTS\Programming Projects\C-C++ Projects\FilmBrowser\FilmBrowser\CircularVector.h(74,23): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+H:\PROJECTS\Programming Projects\C-C++ Projects\FilmBrowser\FilmBrowser\Docker.cpp(110,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+H:\PROJECTS\Programming Projects\C-C++ Projects\FilmBrowser\FilmBrowser\Docker.cpp(111,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Gallery.cpp
+H:\PROJECTS\Programming Projects\C-C++ Projects\FilmBrowser\FilmBrowser\CircularVector.h(74,23): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+H:\PROJECTS\Programming Projects\C-C++ Projects\FilmBrowser\FilmBrowser\Gallery.cpp(13,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+H:\PROJECTS\Programming Projects\C-C++ Projects\FilmBrowser\FilmBrowser\Gallery.cpp(14,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+H:\PROJECTS\Programming Projects\C-C++ Projects\FilmBrowser\FilmBrowser\Gallery.cpp(17,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+H:\PROJECTS\Programming Projects\C-C++ Projects\FilmBrowser\FilmBrowser\Gallery.cpp(18,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+H:\PROJECTS\Programming Projects\C-C++ Projects\FilmBrowser\FilmBrowser\CircularVector.h(74,23): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+H:\PROJECTS\Programming Projects\C-C++ Projects\FilmBrowser\FilmBrowser\main.cpp(23,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\PROJECTS\Programming Projects\C-C++ Projects\FilmBrowser\FilmBrowser\main.cpp(23,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+sggd.lib(graphics.obj) : warning LNK4099: PDB '' was not found with 'sggd.lib(graphics.obj)' or at ''; linking object as if no debug info
+sggd.lib(GLbackend.obj) : warning LNK4099: PDB '' was not found with 'sggd.lib(GLbackend.obj)' or at ''; linking object as if no debug info
+sggd.lib(shader.obj) : warning LNK4099: PDB '' was not found with 'sggd.lib(shader.obj)' or at ''; linking object as if no debug info
+sggd.lib(fonts.obj) : warning LNK4099: PDB '' was not found with 'sggd.lib(fonts.obj)' or at ''; linking object as if no debug info
+sggd.lib(texture.obj) : warning LNK4099: PDB '' was not found with 'sggd.lib(texture.obj)' or at ''; linking object as if no debug info
+sggd.lib(AudioManager.obj) : warning LNK4099: PDB '' was not found with 'sggd.lib(AudioManager.obj)' or at ''; linking object as if no debug info
+sggd.lib(lodepng.obj) : warning LNK4099: PDB '' was not found with 'sggd.lib(lodepng.obj)' or at ''; linking object as if no debug info
+  FilmBrowser.vcxproj -> H:\PROJECTS\Programming Projects\C-C++ Projects\FilmBrowser\FilmBrowser\bin\FilmBrowserd.exe
