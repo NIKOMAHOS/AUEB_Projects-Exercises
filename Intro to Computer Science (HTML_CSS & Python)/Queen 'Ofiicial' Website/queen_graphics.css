@@ -1,0 +1,435 @@
+body{
+background-color: black
+}
+
+h2{
+  color:white;
+  display:block;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 50px;
+  PADDING-RIGHT: 100px;
+  PADDING-LEFT: 100px; 
+  PADDING-BOTTOM: 30px;
+  MARGIN: 0px;
+  PADDING-TOP:0px;
+}
+
+p{
+  color: white;
+  display: block;
+  font-family: "Calibri", serif;
+  font-size: 20px;
+  PADDING-RIGHT: 100px;
+  PADDING-LEFT: 100px; 
+  PADDING-BOTTOM: 60px;
+  MARGIN: 0px;
+  PADDING-TOP:0px
+}
+
+#main-image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*#band_image {
+  display:block;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}*/
+
+/*#ytb_video {
+  max-width: 100%;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}*/
+
+.images_1{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex:auto;
+}
+
+.images_2{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex:auto;
+}
+
+.video_1{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex:auto;
+}
+
+.video_2{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex:auto;
+}
+
+.video_3{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex:auto;
+}
+
+#caption {
+  font-size:x-large;
+  color: white;
+}
+
+.shop{
+background-image:url(queen_1-1.jpg);
+background-repeat:round;
+}
+
+#shop_table {
+  table-layout: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.description_0 {
+  font-size:x-large;
+  color: white;
+}
+
+#offering {
+  font-size:large;
+  color: white;
+}
+
+.products {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex:auto;
+  color:white;
+  font-size:larger;
+  table-layout: auto;
+  background-color:black;
+}
+
+#products_list{
+  font-size: larger;
+  display: flex;
+  flex:auto;
+}
+
+.product_name_1{
+  color: #ff8c0f;
+  font-size:xx-large;
+  font-family:fantasy;
+}
+
+.product_name_2{
+  color: #ff8c0f;
+  font-size:xx-large;
+  font-family:fantasy;
+}
+
+.product_name_3{
+  color: #ff8c0f;
+  font-size:xx-large;
+  font-family:fantasy;
+}
+
+.product_name_4{
+  color: #ff8c0f;
+  font-size:xx-large;
+  font-family:fantasy;
+}
+
+.product_name_5{
+  color: #ff8c0f;
+  font-size:xx-large;
+  font-family:fantasy;
+}
+
+.product_name_6{
+  color: #ff8c0f;
+  font-size:xx-large;
+  font-family:fantasy;
+}
+
+#movie_ost{
+  float: left;
+  width: 30%;
+  height: 10%;
+}
+
+#concert{
+  float: left;
+  width: 30%;
+  height: 10%;
+}
+
+#shirt {
+  float: left;
+  width: 30%;
+  height: 10%; 
+}
+
+#mug {
+  float: left;
+  width: 30%;
+  height: 10%; 
+}
+
+#figures{
+  float: left;
+  width: 30%;
+  height: 10%; 
+}
+
+#mask {
+  float: left;
+  width: 30%;
+  height: 10%; 
+}
+
+.list_1{
+  color: white;
+  margin-left: 500px;
+  margin-top: 10px;
+  font-size: x-large;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.list_2{
+  color: white;
+  margin-left: 500px;
+  margin-top: 10px;
+  font-size: x-large;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.list_3{
+  color: white;
+  margin-left: 500px;
+  margin-top: 10px;
+  font-size: x-large;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.list_4{
+  color: white;
+  margin-left: 500px;
+  margin-top: 10px;
+  font-size: x-large;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.list_5{
+  color: white;
+  margin-left: 500px;
+  margin-top: 10px;
+  font-size: x-large;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.list_6{
+  color: white;
+  margin-left: 500px;
+  margin-top: 10px;
+  font-size: x-large;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.table_1{
+  color:white;
+  font-size:large;
+  margin-left: 500px;
+
+}
+
+.table_2{
+  color:white;
+  font-size:large;
+  margin-left: 500px;
+
+}
+
+.description_1{
+  font-size:x-large;
+  color: white;
+  float:center;
+  width: 50%;
+  margin-left: 400px;
+}
+
+.description_2{
+  font-size:x-large;
+  color: white;
+  float:center;
+  width: 50%;
+  margin-left: 400px;
+
+}
+
+.description_3{
+  font-size:x-large;
+  color: white;
+  float:center;
+  width: 50%;
+  margin-left: 400px;
+}
+
+.description_4{
+  font-size:x-large;
+  color: white;
+  float:center;
+  width: 50%;
+  margin-left: 400px;
+}
+
+.description_5{
+  font-size:x-large;
+  color: white;
+  float:center;
+  width: 50%;
+  margin-left: 400px;
+}
+
+.description_6{
+  font-size:x-large;
+  color: white;
+  float:center;
+  width: 50%;
+  margin-left: 400px;
+}
+
+.contact_info {
+table-layout:auto;
+background-color: black;
+color: white; 
+}
+
+.conclusion{
+color: white;
+font-size: x-large;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/*#an_image {
+  display: flex;
+  align-items: right;
+  justify-content: space-around;
+  flex:auto;
+}*/
+
+.sources {
+  display: flex;
+  font-size: medium;
+  list-style-type: lower-greek;
+  color: white;
+}
+
+h1 {
+	color:white;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2 {
+	font: italic bold 20px serif;
+	color:white
+}
+
+h3{
+  font: italic bolder 18px serif;
+  color: white
+}
+h4{
+  font-family: Arial, Helvetica, sans-serif;
+  color: white
+}
+
+a:link {
+	color:yellow;
+}
+a:visited {
+	color:lightcyan;
+}
+
+nav {
+  color:red;
+  float: center;
+  display:flex;
+  font-family: "Calibri", serif;
+  font-size: 18px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 80px;
+}
+ 
+nav a
+{
+    display: block;
+    padding: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    color:greenyellow;
+    text-transform: uppercase;
+    margin-bottom: 1px;
+    margin-right: 8px;
+}
+
+nav a:hover
+{
+    background: grey;
+    color:black;
+    margin-bottom:2px;
+}
+
+nav a:visited
+{
+      color:lightcoral;
+}
+
+@media screen and (min-width:400px){
+  nav ul li {
+    flex:none;
+  }
+  nav ul {
+    justify-content: center;
+  }  
+}
+
+.go_top_button{
+  background-color: rgb(29, 184, 76);
+  display:block; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  height: 50px;
+  width: 50px;
+  bottom: 20px; /* Place the button at the bottom of the page */
+  right: 30px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 15px; /* Some padding */
+  border-radius: 10px; /* Rounded corners */
+  font-size: 18px; /* Increase font size */
+  box-shadow: 0px 0px 20px whitesmoke;
+}
+
+.go_top_button svg{
+  width: 30px;
+  height: 30px;
+  color:black;
+}
+
+footer 
+{
+  text-align: center;
+  margin: auto;
+  background-color:black;
+  color: white;
+}
