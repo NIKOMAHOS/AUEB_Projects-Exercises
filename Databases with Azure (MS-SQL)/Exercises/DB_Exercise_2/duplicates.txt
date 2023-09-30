@@ -1,0 +1,13 @@
+ratings : no duplicates
+production_company : no duplicates
+hasProductioncompany : 38 duplicates new lines : 18577
+movie_crew : no duplicates
+movie_cast : no duplicates
+movie : no duplicates
+hasGenre : 24 duplicates
+collection : no duplicates
+belongsToCollection : 2 duplicates
+
+
+
+

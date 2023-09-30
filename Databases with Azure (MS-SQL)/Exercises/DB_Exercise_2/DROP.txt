@@ -1,0 +1,9 @@
+ALTER TABLE dbo.hasKeyword
+DROP CONSTRAINT fKID
+ALTER TABLE dbo.hasKeyword
+DROP CONSTRAINT f1MovieID
+DROP TABLE dbo.hasKeyword
+
+ALTER TABLE dbo.Keyword
+DROP CONSTRAINT KID
+DROP TABLE dbo.Keyword
